@@ -1,6 +1,6 @@
 # Calculator
 
-- This project is an implementation of the classical app Calculator in Swift for iOS.
+- This project is an implementation of the classic app Calculator in Swift for iOS.
 - It was created by me using UIKit in Xcode.
 - In this app I implemented most of the functionalities of a calculator for iOS.
 - This is my first app developed and designed in Swift for iOS.
